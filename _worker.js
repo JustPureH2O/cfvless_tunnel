@@ -1,6 +1,6 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
-var userID = "0648919d-8bf1-4d4c-8525-36cf487506ec";
+var userID = "bd56e74d-ac8b-4f12-87e3-e27f8ab5909f";
 var proxyList = [
   "cdn-all.xn--b6gac.eu.org",
   "cdn.xn--b6gac.eu.org",
